@@ -9,3 +9,5 @@
 #    Nutze dafür den print() Befehl mit dem Variablennamen.
 #    WICHTIG: Hier KEINE Anführungszeichen, sonst druckt er nur das Wort "elfen_name" statt des Inhalts!
 
+name="Mika"
+print(name)
