@@ -12,3 +12,8 @@
 # 3. Gib beide Variablen mit print() aus.
 #    (Erinnerung an Tag 2: Variable in die Klammer, ohne Anführungszeichen)
 
+rentiere=9
+print(rentiere)
+
+geschenke=0
+print(geschenke)

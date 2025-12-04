@@ -1,7 +1,7 @@
 # 🕯️ Tag 4: Futterberechnung
 
 rentiere = 9
-karotten_pro_tier = 2
+karotten_pro_tier =2
 
 print("Wir brauchen so viele Karotten:")
 
@@ -10,4 +10,5 @@ print("Wir brauchen so viele Karotten:")
 # Du kannst das Ergebnis direkt in den print-Befehl schreiben
 # ODER erst in einer neuen Variable 'gesamt' speichern und diese dann drucken.
 
-
+gesamt=rentiere*karotten_pro_tier
+print(gesamt)
