@@ -7,7 +7,7 @@
 
 # 2. Gib den Inhalt der Variable auf dem Bildschirm aus.
 #    Nutze dafür den print() Befehl mit dem Variablennamen.
-#    WICHTIG: Hier KEINE Anführungszeichen, sonst druckt er nur das Wort "elfen_name" statt des Inhalts!
+#    WICHTIG: Hier KEINE Anführungszeichen, sonst druckt er nur das Wort "elfen_name" statt des 
 
-name="Mika"
+name="mika"
 print(name)
