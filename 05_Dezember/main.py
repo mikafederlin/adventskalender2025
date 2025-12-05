@@ -10,3 +10,8 @@ print("System bereit für Eingabe...")
 print("Du wünschst dir:")
 #    Gib hier (wie an Tag 2) den Inhalt der Variable 'wunsch' aus.
 
+antwort=input("Du wünschst dir:")
+
+
+print("Du wunschst dir:")
+print(antwort)
