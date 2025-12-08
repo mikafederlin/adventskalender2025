@@ -10,3 +10,9 @@
     # Wenn bereit: Gib "Motoren starten!" aus.
 
     # Sonst (else): Gib "Warten..." aus.
+
+schlitten_bereit=True
+if schlitten_bereit:
+    print("Motoren starten!")
+else:
+    print("Warten...")
