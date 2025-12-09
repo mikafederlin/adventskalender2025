@@ -12,3 +12,11 @@ if typ == "Spielzeug":
 
 else:
     print("Kommt in den Rest-Sack.")
+
+
+if typ=="Kleidung":
+    print("Kommt in den roten Sack.")
+elif typ=="Spielzeug":
+    print("Kommt in den blauen Sack.")
+else:
+    print("Kommt in den Rest-Sack.")
