@@ -7,7 +7,7 @@
 
 status = "fertig"
 
-if status == "fertig"
-    print("Geschenke sind verpackt!)
+if status == "fertig":
+    print("Geschenke sind verpackt!")
 else:
     print("Noch arbeiten...")
