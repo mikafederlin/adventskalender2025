@@ -9,3 +9,5 @@ wort = input("Gib ein Wort ein: ")
 
 # 3. Gib die neue Variable aus.
 
+grosses_wort=wort.lower()
+print(grosses_wort)
