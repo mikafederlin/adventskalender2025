@@ -1,6 +1,6 @@
 # 🕯️ Tag 14: Etwas hinzufügen
 
-sack = ["Ball", "Puppe"]
+sack = ["PC","Zimmereinrichtung","LEDS"]
 
 # (Erinnerung an Tag 11: Das hier unten ist ein f-String mit den {} Klammern!)
 print(f"Vorher: {sack}")
@@ -9,5 +9,5 @@ print(f"Vorher: {sack}")
 # Nutze den Befehl .append(...), um "Fahrrad" in den Sack zu packen.
 # Der Befehl gehört zur Variable: sack.append(...)
 
-
+sack.append("Fahrrad")
 print(f"Nachher: {sack}")

@@ -9,3 +9,5 @@
 print("Im Sack ist:")
 # 3. Gib die Liste aus (einfach print(sack) )
 
+sack = ["PC","Zimmereinrichtung","LEDS"]
+print(sack)
