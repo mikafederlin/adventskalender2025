@@ -1,3 +1,6 @@
+
+
+
 # 🕯️ Tag 15: Schleifen (Loops)
 
 sack = ["Auto", "Buch", "Kekse", "Socken"]
@@ -10,6 +13,7 @@ print("Starte Verladung...")
 # for ... in ...:
     # Gib in der Schleife aus: "Verladen: {ding}"
     # (Erinnerung an Tag 11: Nutze dafür einen f-String!)
-    
+for ding in sack:
+    print(f"Verlade: {ding}")
 
 print("Alles drin!")
