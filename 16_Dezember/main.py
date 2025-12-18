@@ -13,6 +13,7 @@ print("Countdown gestartet!")
     # 1. Gib die Zahl aus
     
     # 2. Warte eine Sekunde mit time.sleep(1)
-
-
+for zahl in range(10,0,-1):
+    print(zahl)
+    time.sleep(1)
 print("WROOOOM! Start!")
