@@ -8,7 +8,7 @@ def verpacken(gegenstand):
     # Aufgabe: Gib den Gegenstand aus, am besten mit Sternchen davor und dahinter
     # z.B. * Puppe *
     # (Tipp: Nutze dafür wieder einen f-String: f"*{...}*")
-    
+    print(gegenstand)
     print("****")
 
 # Hier testen wir die Maschine.
