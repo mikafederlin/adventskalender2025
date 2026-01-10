@@ -10,6 +10,6 @@ positionen = {
 # Aufgabe: Finde heraus, wo Rudolph steht.
 # Hole dir den Wert aus dem Dictionary, indem du den Namen ("Rudolph") in eckigen Klammern dahinter schreibst.
 
-# wo_ist_rudi = positionen[...]
+wo_ist_rudi = positionen["Rudolph"]
 
 print(f"Rudolph steht: {wo_ist_rudi}")
