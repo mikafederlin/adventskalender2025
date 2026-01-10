@@ -12,3 +12,8 @@ print(f"Wetter-Code ist: {wetter_code}")
 # 2. Sonst (else):
 #    Drucke "Freie Fahrt! Abflugbereit."
 
+
+if wetter_code==1:
+    print("Achtung: Schneeketten anlegen!")
+else:
+    print("Freie Fahrt! Abflugbereit.")

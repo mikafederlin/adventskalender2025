@@ -9,12 +9,12 @@ eingabe = ""
 # Solange 'eingabe' NICHT GLEICH 'geheimnis' ist...
 # (Erinnerung an Tag 18: while ...:)
 
-# while ... != ...:
-    
+while eingabe!=geheimnis:
+    eingabe=input("passwort")
     # Frage den User nach dem Passwort (input) und speichere es in 'eingabe'
     
     # (Optional) Wenn du willst, kannst du prüfen:
     # Wenn eingabe richtig -> "Offen!"
-    # Sonst -> "Falsch!"
+    # Sonst ->F!"
 
 print("Zugriff erlaubt! Tor öffnet sich.")
